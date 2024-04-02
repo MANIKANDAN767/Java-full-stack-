@@ -39,3 +39,9 @@ public class Main {
         }
     }
 }
+
+OUTPUT
+    Enter a two-digit integer: 57
+Difference between digits: 2
+
+=== Code Execution Successful ===
